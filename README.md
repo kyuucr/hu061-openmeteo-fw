@@ -5,6 +5,8 @@ a kit on AliExpress. It gets the weather from [Open-Meteo](https://open-meteo.co
 which needs **no account, API key or phone number** and free for non-commercial use.
 The clock makes about 48 requests a day.
 
+![HU-061 weather clock with Open-Meteo firmware](hu061.jpeg)
+
 ## What it does
 
 * Same screens and button as the stock firmware: date/time, current weather and a 3-day
